@@ -1,0 +1,262 @@
+body{
+    font-family:'Bai Jamjuree', sans-serif;
+    background-color: black;
+    justify-content: center;
+        align-items: center;
+        margin: 10rem;
+        width: 80%;
+        padding: 0.1rem;
+        font-size: 18px;
+
+}
+p{
+    font-size: x-small;
+    font-weight: 400;
+    color: gray;
+    opacity: 0.9;
+}
+ .btn1{
+    border-radius: 2rem;
+    padding: 0.5rem;
+    gap: 2rem;
+    font-size: xx-small;
+    color: white;
+    background-color: hsl(171, 66%, 44%);
+    border-style: none;
+ }
+ .btn2{
+    border-radius: 2rem;
+    padding: 0.5rem;
+    gap: 2rem;
+    font-size: xx-small;
+    color: white;
+    background-color:  hsl(233, 100%, 69%);
+    border-style: none;
+ }
+ .btn{
+    margin-bottom: 4rem;
+ }
+ .btn1:hover{
+    color: black;
+    background-color: aquamarine;
+    scale: 1;
+    cursor: pointer;
+    
+ }
+ .btn2:hover{
+    color: black;
+    background-color: hsl(240, 30%, 48%);
+    scale: 1;
+    cursor: pointer;
+    
+ }
+   
+    .container{
+        text-align: center;
+        background-color: white;
+        padding: 0.5rem;
+        }
+        .bg{
+            width: 100%;
+        }
+        .logo{
+            width: 50px;
+            height: 50px;
+            margin-bottom: 1rem;
+        
+        }
+        .second{
+            display: grid;
+            grid-template-columns: 40% 30%;
+            gap: 1rem;
+            margin-top: 2rem;
+
+        }
+        .cmp{
+            width: 350px;
+            height: 250px;
+            left: 8rem;
+            margin-bottom: 2rem;
+            margin-right: 3rem;
+        }
+
+        .sec1{
+            margin: 1rem;
+        }
+        .par{
+            margin-top: 0.3rem;
+            font-size: x-small;
+        }
+        .pa{
+            font-size: large;
+        }
+        .txt{
+            right: 5rem;
+        }
+        .acc{
+            margin-top: 5rem;
+        }
+        .dev{
+            width: 300px;
+            height: 200px;
+            margin-top: 3rem;
+        
+        }
+        .con{
+            display: flex;
+            gap: 5rem;
+            margin-top: 4rem;
+            padding-left: 7rem;
+        }  
+        
+        .logo1{display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 1rem;
+            margin-top: 4rem;
+        }
+        .logo2{
+            width: 35px;
+            height: 35px;
+           position: absolute;
+           left: 14rem;
+            
+        }
+        .clip{
+            margin-top: 4rem ;
+        }
+        ul{
+            list-style: none;
+            display: inline-block;
+            padding: 10px 25px;
+        }
+        footer{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 5rem;
+            background-color: hsl(206, 30%, 95%);
+        
+           
+           
+        }
+        .fot{
+            font-size: x-small;
+            padding: 1rem;
+        }
+        
+        .soc{
+            display: flex;
+            width: 15px;
+            height: 15px;
+            
+            margin-top: 0.5rem;
+            margin-left: 2rem;
+            gap: 1rem;
+            
+        }
+        .soc:hover{
+            color: aqua;
+            cursor: pointer;
+        }
+        .fa{
+            display: flex;
+            gap: 3rem;
+            font-size: 8px;
+            
+        }
+        .fe{
+            margin-top: 1rem;
+            display: flex;
+            gap: 3rem;
+            font-size: 8px;
+
+        }
+        @media only screen and (max-width:500px){
+            .container{
+                display: block;
+                justify-content: center;
+                padding: 2rem;
+                
+            }
+            .cmp{
+                justify-content: center;
+                width: 250px;
+                height: 150px;
+            }
+            .sec1{
+                margin-top: 10rem;
+                inline-size: 14rem;
+                padding-right: 5rem;
+                position: absolute;
+                right: -8rem;
+                
+                
+
+               
+            }
+            .acc{
+                margin-top: 20rem;
+            }
+            .pa{
+                font-size: small;
+                text-align: center;
+            }
+            
+            .logo1{
+                width: 250px;
+                height: 200px;
+                display: block;
+                gap: 5rem;
+                
+            }
+            .dev{
+                justify-content: center;
+                width: 200px;
+                height: 150px;
+            }
+            .ic{
+               
+                
+            }
+            .clip{
+                margin-top: 40rem;
+            }
+            
+            footer{
+                display: block;
+                padding: 0.5rem;
+            }
+            .soc{
+                
+                width: 10px;
+                height: 10px;
+                gap: 1rem;
+                margin-left: 5rem;
+                margin-bottom: 1rem;
+            }
+            .fa{
+                margin-top: 1rem;
+                display: block;
+                font-size: 12px;
+            }
+            .fe{margin-top: 0.5rem;
+                display: block;
+                font-size: 12px;
+                margin-top: -0rem;
+            }
+            .logo2{
+                position: absolute;
+                margin-top: 0.5rem;
+                
+                
+            }
+            .con{
+                display: block;
+                inline-size: 15rem;
+                position: absolute;
+                margin-top: 25rem;
+                margin-bottom: 7rem;
+                left: 5rem;
+            }
+        }
