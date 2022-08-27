@@ -20,8 +20,7 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
-
-![clipboard screenshot](https://user-images.githubusercontent.com/104263420/187027774-851fa874-d72a-493f-8e4b-fccc4c9c07ad.jpeg)
+![clipboard screenshot1](https://user-images.githubusercontent.com/104263420/187028001-36dae79a-6a3c-4413-af57-af82b380ead1.jpeg)
  
 ### Links
 
