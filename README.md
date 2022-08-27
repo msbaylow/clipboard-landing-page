@@ -21,13 +21,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./clipboard screenshot.jpg)
+![(./clipboard screenshot.jpeg)](./clipboard screenshot.jpeg)
 
 
 ### Links
 
 - Solution URL: [https://github.com/msbaylow/clipboard-landing-page](https://github.com/msbaylow/clipboard-landing-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [ https://msbaylow.github.io/clipboard-landing-page/]( https://msbaylow.github.io/clipboard-landing-page/)
 
 ### Built with
 
