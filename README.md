@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![(./clipboard screenshot.jpeg)](./clipboard screenshot.jpeg)
+!(./clipboard screenshot.jpeg](./clipboard screenshot.jpeg)
 
 
 ### Links
