@@ -21,8 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-!(./clipboard screenshot.jpeg](./clipboard screenshot.jpeg)
-
+![clipboard screenshot](https://user-images.githubusercontent.com/104263420/187027641-2a822422-058f-425d-8506-91edb034a05c.jpeg)
 
 ### Links
 
