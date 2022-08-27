@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Screenshot
 
-![clipboard screenshot](https://user-images.githubusercontent.com/104263420/187027641-2a822422-058f-425d-8506-91edb034a05c.jpeg)
-
+![clipboard screenshot](https://user-images.githubusercontent.com/104263420/187027774-851fa874-d72a-493f-8e4b-fccc4c9c07ad.jpeg)
+ 
 ### Links
 
 - Solution URL: [https://github.com/msbaylow/clipboard-landing-page](https://github.com/msbaylow/clipboard-landing-page)
